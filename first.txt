@@ -13,5 +13,5 @@ firtt git
 firtt git
 firtt git
 firtt git
-firtt git
+firtt git main
 firtt git
